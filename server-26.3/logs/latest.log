@@ -7,3 +7,19 @@
 [23:09:55] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
 [23:09:56] [ServerMain/INFO]: [com.destroystokyo.paper.profile.PaperServicesDiscoveryService] Environment: Environment[discoveryUrl=https://discovery.minecraftservices.com/minecraft/client, name=PROD]
 [23:09:57] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 1,648.9ms
+[23:10:02] [Worker-Main-1/INFO]: Loaded 1866 advancements
+[23:10:03] [Server thread/INFO]: Starting minecraft server version 26.3
+[23:10:03] [Server thread/INFO]: Loading properties
+[23:10:03] [Server thread/INFO]: This server is running Paper version 26.3-244-main@35a2d15 (2026-11-06T11:34:02Z) (Implementing API version 26.3.build.244-stable)
+[23:10:03] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[23:10:03] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:10:03] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:10:04] [Paper FMA initialiser/INFO]: [ca.spottedleaf.moonrise.common.util.FMA] FMA supported: true for Linux platform with feature flag: flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht syscall nx pdpe1gb rdtscp lm constant_tsc rep_good nopl xtopology tsc_reliable nonstop_tsc cpuid aperfmperf tsc_known_freq pni pclmulqdq vmx ssse3 fma cx16 pcid sse4_1 sse4_2 movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch tpr_shadow ept vpid ept_ad fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm avx512f avx512dq rdseed adx smap avx512ifma clflushopt clwb avx512cd sha_ni avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves vnmi avx512vbmi umip avx512_vbmi2 gfni vaes vpclmulqdq avx512_vnni avx512_bitalg avx512_vpopcntdq la57 rdpid fsrm arch_capabilities
+[23:10:04] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[23:10:05] [Server thread/INFO]: Default game type: SURVIVAL
+[23:10:05] [Server thread/INFO]: Generating keypair
+[23:10:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:10:05] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[23:10:05] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[23:10:06] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.12.2
+[23:10:06] [Server thread/INFO]: [ViaVersion] ViaVersion 5.12.2 is now loaded. Registering protocol transformers and injecting...
