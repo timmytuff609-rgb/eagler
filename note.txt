@@ -1,1 +1,6 @@
-cd /workspaces/eagler/server-26.3 && ./start.sh 
+cd /workspaces/eagler/server-26.3
+export JAVA_HOME="$PWD/runtime"
+export PATH="$JAVA_HOME/bin:$PATH"
+./start.sh
+
+gh codespace rebuild -c "$CODESPACE_NAME"
