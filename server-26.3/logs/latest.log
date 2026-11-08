@@ -80,3 +80,4 @@
 [22:41:23] [Server thread/INFO]: Running delayed init tasks
 [22:41:23] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
 [22:41:23] [Server thread/INFO]: Done (27.208s)! For help, type "help"
+[22:41:38] [Server thread/INFO]: System chat: Made ecn1 a server operator
