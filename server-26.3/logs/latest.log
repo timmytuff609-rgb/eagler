@@ -89,3 +89,44 @@
 [22:40:14] [Server thread/INFO]: Running delayed init tasks
 [22:40:14] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
 [22:40:14] [Server thread/INFO]: Done (38.168s)! For help, type "help"
+[22:40:34] [Server thread/INFO]: System chat: Stopping the server
+[22:40:34] [Server thread/INFO]: Stopping server
+[22:40:34] [Server thread/INFO]: [EaglerXServer] Disabling EaglercraftXServer v1.1.1 Stable 2
+[22:40:34] [Server thread/INFO]: [EaglerXServer] Disconnecting from skin cache database "jdbc:sqlite:eagler_skins_cache.db"...
+[22:40:34] [Server thread/INFO]: [EaglerXServer] Disconnected from skin cache database successfully!
+[22:40:34] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.2.0
+[22:40:34] [Server thread/INFO]: [InvSee++] Disabling InvSeePlusPlus v0.31.22
+[22:40:34] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.12.2
+[22:40:34] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.91
+[22:40:34] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[22:40:34] [Server thread/INFO]: [LuckPerms] Closing storage...
+[22:40:34] [Server thread/INFO]: [LuckPerms] Goodbye!
+[22:40:34] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.12.2
+[22:40:34] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[22:40:34] [Server thread/INFO]: Saving players
+[22:40:34] [Server thread/INFO]: Saving worlds
+[22:40:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:40:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:overworld'
+[22:40:34] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:overworld'
+[22:40:34] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:overworld'
+[22:40:34] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:overworld' in 0.00s
+[22:40:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:overworld'
+[22:40:34] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:overworld'
+[22:40:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:40:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_nether'
+[22:40:34] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_nether'
+[22:40:34] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:the_nether'
+[22:40:34] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:the_nether' in 0.00s
+[22:40:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_nether'
+[22:40:34] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_nether'
+[22:40:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:40:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_end'
+[22:40:34] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_end'
+[22:40:34] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:the_end'
+[22:40:34] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:the_end' in 0.00s
+[22:40:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_end'
+[22:40:34] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_end'
+[22:40:34] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[22:40:34] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[22:40:34] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[22:40:34] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
