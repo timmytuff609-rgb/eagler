@@ -1,6 +1,6 @@
 # Sets the name of this EaglercraftX server that is sent with query responses and
 # used for the default "404 websocket upgrade failure" page
-server_name: 'EaglercraftXServer'
+server_name: 'G'
 # Sets the UUID of this EaglercraftX server to send with query responses, has no
 # official uses outside of server lists
 server_uuid: '429b5674-f75d-4fa9-96ac-f88e23fcdab4'
