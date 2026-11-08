@@ -35,7 +35,7 @@ while true; do
     if [[ "$staged_hash" != "$last_hash" ]]; then
       last_hash="$staged_hash"
       changed_at="$now"
-    elif ! git diff --cached --quiet HEAD && (( now - changed_at >= 2 )); then
+    elif ! git diff --cached --quiet HEAD && (( now - changed_at >= 1 )); then
       if git commit -m "Auto-sync: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"; then
         printf '%s Changes committed on %s.\n' "$(date -Is)" "$branch"
         push_pending=1
