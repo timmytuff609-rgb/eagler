@@ -93,3 +93,5 @@
 [23:13:04] [Server thread/INFO]: ecn1 issued server command: /give ecn1 minecraft:command_block
 [23:13:04] [Server thread/INFO]: System chat: [ecn1: Gave 1 [Command Block] to ecn1]
 [23:13:18] [Server thread/INFO]: ecn1 issued server command: /gamemode c
+[23:13:25] [Server thread/INFO]: ecn1 issued server command: /gamemode creative
+[23:13:25] [Server thread/INFO]: System chat: [ecn1: Set own game mode to Creative Mode]
