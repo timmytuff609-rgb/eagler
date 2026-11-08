@@ -90,3 +90,5 @@
 [23:12:07] [Server thread/INFO]: System chat: ecn1 joined the game
 [23:12:07] [Server thread/INFO]: ecn1[/[0:0:0:0:0:0:0:1]:49804] logged in with entity id 1 at ([minecraft:overworld]-52.5, 76.0, 73.5)
 [23:12:55] [Server thread/INFO]: ecn1 issued server command: /
+[23:13:04] [Server thread/INFO]: ecn1 issued server command: /give ecn1 minecraft:command_block
+[23:13:04] [Server thread/INFO]: System chat: [ecn1: Gave 1 [Command Block] to ecn1]
