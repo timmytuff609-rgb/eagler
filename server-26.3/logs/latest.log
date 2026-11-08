@@ -197,3 +197,4 @@
 [23:14:08] [Server thread/INFO]: System chat: [@: Gave 1 [Wooden Axe] to ecn1]
 [23:14:27] [Server thread/INFO]: ecn1 issued server command: /clear ecn1 minecraft:wooden_axe
 [23:14:27] [Server thread/INFO]: System chat: [ecn1: Removed 35 item(s) from player ecn1]
+[23:15:20] [Server thread/INFO]: ecn1 issued server command: /invsee ecn1
