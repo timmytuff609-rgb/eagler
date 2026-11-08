@@ -86,3 +86,4 @@
 [23:11:53] [User Authenticator #0/INFO]: UUID of player ecn1 is 554c5c63-e709-3127-a276-8560a3acb368
 [23:11:53] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LuckPerms, EaglercraftXServer]
 [23:11:53] [Netty Epoll IO #0/INFO]: [EaglerXServer] [/[0:0:0:0:0:0:0:1]:49804]: Vanilla compression codecs stripped from Eaglercraft connection
+[23:11:58] [Craft Scheduler Thread - 9 - EaglercraftXServer/WARN]: [EaglerXServer] Player ecn1 was initialized, but never fired PlayerJoinEvent, dropping...
