@@ -1,1 +1,1 @@
-cd /workspaces/eagler/server-26.3 && ./start.sh cd /workspaces/eagler/server-26.3 && ./start.sh
+cd /workspaces/eagler/server-26.3 && ./start.sh 
