@@ -4,3 +4,6 @@
 [22:39:39] [ServerMain/INFO]: [PluginInitializerManager] Initialized 6 plugins
 [22:39:39] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (6):
  - EaglercraftXServer (1.1.1 Stable 2), InvSeePlusPlus (0.31.22), LuckPerms (5.5.91), ViaBackwards (5.12.2), ViaRewind (4.2.0), ViaVersion (5.12.2)
+[22:39:46] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[22:39:47] [ServerMain/INFO]: [com.destroystokyo.paper.profile.PaperServicesDiscoveryService] Environment: Environment[discoveryUrl=https://discovery.minecraftservices.com/minecraft/client, name=PROD]
+[22:39:48] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 1,868.4ms
