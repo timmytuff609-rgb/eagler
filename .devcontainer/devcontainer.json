@@ -1,0 +1,4 @@
+{
+  "name": "eagler",
+  "postStartCommand": "bash .devcontainer/auto-sync.sh"
+}
