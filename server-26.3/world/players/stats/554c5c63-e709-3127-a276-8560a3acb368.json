@@ -1,18 +1,37 @@
 {
   "stats": {
-    "minecraft:custom": {
-      "minecraft:time_since_rest": 5741,
-      "minecraft:walk_one_cm": 4209,
-      "minecraft:total_world_time": 5741,
-      "minecraft:play_time": 5741,
-      "minecraft:jump": 14,
-      "minecraft:time_since_death": 5741
-    },
     "minecraft:used": {
-      "minecraft:command_block": 1
+      "minecraft:command_block": 1,
+      "minecraft:dirt": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 20,
+      "minecraft:walk_one_cm": 20671,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 750,
+      "minecraft:damage_taken": 280,
+      "minecraft:play_time": 9116,
+      "minecraft:jump": 66,
+      "minecraft:time_since_death": 0,
+      "minecraft:sprint_one_cm": 9613,
+      "minecraft:fall_one_cm": 2378,
+      "minecraft:total_world_time": 9116,
+      "minecraft:fly_one_cm": 2761,
+      "minecraft:walk_on_water_one_cm": 2118,
+      "minecraft:deaths": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:dirt": 1,
+      "minecraft:acacia_log": 5
+    },
+    "minecraft:killed_by": {
+      "minecraft:zombie": 1
     },
     "minecraft:mined": {
-      "minecraft:short_grass": 1
+      "minecraft:short_grass": 2,
+      "minecraft:acacia_leaves": 2,
+      "minecraft:grass_block": 1,
+      "minecraft:acacia_log": 5
     }
   },
   "DataVersion": 5023
