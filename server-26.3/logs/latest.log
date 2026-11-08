@@ -87,3 +87,5 @@
 [23:11:53] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LuckPerms, EaglercraftXServer]
 [23:11:53] [Netty Epoll IO #0/INFO]: [EaglerXServer] [/[0:0:0:0:0:0:0:1]:49804]: Vanilla compression codecs stripped from Eaglercraft connection
 [23:11:58] [Craft Scheduler Thread - 9 - EaglercraftXServer/WARN]: [EaglerXServer] Player ecn1 was initialized, but never fired PlayerJoinEvent, dropping...
+[23:12:07] [Server thread/INFO]: System chat: ecn1 joined the game
+[23:12:07] [Server thread/INFO]: ecn1[/[0:0:0:0:0:0:0:1]:49804] logged in with entity id 1 at ([minecraft:overworld]-52.5, 76.0, 73.5)
